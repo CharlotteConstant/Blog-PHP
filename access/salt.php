@@ -1,0 +1,6 @@
+<?php 
+
+$salt = "blabla";
+
+
+?>
